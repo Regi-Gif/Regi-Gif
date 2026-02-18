@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Regi-Gif/Regi-Gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# REGIANE
+white hat code
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=000000" />
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=000000" />
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=000000" />
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=openjdk&logoColor=000000" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-FFFFFF?style=flat&logo=microsoft-excel&logoColor=000000" />
+
+</div>
+
+---
+
+### About
+
+I value clarity, discipline and ethical execution.  
+Focused on building clean, secure and structured solutions.
+
+---
+
+### Philosophy
+
+Think clearly.  
+Code ethically.  
+Execute precisely.
+
+---
+
+<div align="center">
+
+Silent work. Loud results.
+
+</div>
+
